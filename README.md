@@ -12,5 +12,8 @@
 1) Text Retrieval Function: The function returns the complete extracted text from the PDF.
 2) Request Function: The function returns the text of the generated response.
 
-
+## Note:
+1) The current implementation allows to upload only one pdf file at a time.
+2) The prompt is provided so as to provide clear and concise answer.
+3) Gemini-1.5-Flash has been used for this task as it is a powerful and versatile language model capable of processing and generating text from a massive context window. This makes it suitable for handling long documents.
    
